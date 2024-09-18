@@ -1,0 +1,19 @@
+.mySwiper {
+    width: 80%;
+    height: 500px; /* Set a fixed height */
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 100%; /* Full height for each slide */
+}
+
+.slideImage {
+    border-radius: 10px; /* Rounded corners */
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    object-fit: cover; /* Cover to fill without distortion */
+}

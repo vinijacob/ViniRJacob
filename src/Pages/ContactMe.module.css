@@ -1,0 +1,69 @@
+.contactContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  /* background-color: #1e1e1e; */
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  color: var(--textColor);
+  /* border-bottom: 2px solid #00ffff; */
+  padding-bottom: 10px;
+}
+
+.contactItem {
+  display: flex;
+  align-items: center;
+  background-color: #252525;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px 0;
+  width: 80%;
+  max-width: 600px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  text-decoration: none;
+  width: 100%;
+}
+
+.contactItem:hover {
+  background-color: #333;
+  transform: scale(1.05);
+}
+
+.contactIcon {
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+  fill: #00ffff;
+  transition: fill 0.3s ease;
+}
+
+.contactItem span {
+  font-size: 1.2rem;
+  flex: 1; /* Ensures the span takes remaining space */
+  overflow: hidden; /* Hides overflowing text */
+  white-space: nowrap; /* Prevents wrapping */
+  text-overflow: ellipsis; /* Displays ... for overflow */
+}
+
+.contactItem:hover .contactIcon {
+  fill: #ff00ff;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 425px) {
+  .contactItem {
+    width: 90%;
+  }
+}

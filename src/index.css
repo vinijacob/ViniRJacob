@@ -5,9 +5,49 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--mainBackgroundSection);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* use to change color variables */
+:root {
+  /* --mainBackgroundSection: #000000;
+  --secondaryBackgroundSection: #1C1C1C;
+  --textColor: #FF007F;
+  --highlightText: orange;
+  --navbarBackground: #1A0033;
+  --navbarLink: #D3D3D3;
+  --navbarHover: #4D4DFF;
+  --navbarLinkHover: #39FF14; */
+  
+  /* ALTERNATE PALETTE - STANDARD*/
+  --mainBackgroundSection: #1e1e1e;
+  --secondaryBackgroundSection: #252525;
+  --textColor: #FFF;
+  --highlightText: #440f5b;
+  --navbarBackground: #252525;
+  --navbarLink: #D3D3D3;
+  --navbarHover: #561197;
+  --navbarLinkHover: #FF00FF;
+
+  /* CARDS */
+	--cards: 3;
+	--cardHeight: 87vh;
+	--cardTopPadding: 1.5em;
+	--cardMargin: 4vw;
+
+  /* SLIDER DIMENSIONS */
+  --sliderWidth: 30rem;
+  --sliderHeight: 30rem;
+}
+
+/* Other tech color */
+/* Electric Blue: #007BFF */
+/* Tech Green: #27AE60 */
+/* Innovative Purple: #8E44AD */
+/* Energetic Orange: #E67E22 */
+/* Power Red:  #C0392B */

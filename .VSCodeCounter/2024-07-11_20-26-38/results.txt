@@ -1,0 +1,58 @@
+Date : 2024-07-11 20:26:38
+Directory : /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio
+Total : 23 files,  21288 codes, 82 comments, 175 blanks, all 21545 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     20,231 |          0 |          3 |     20,234 |
+| CSS        |          8 |        670 |         43 |         98 |        811 |
+| JavaScript |          9 |        305 |         16 |         35 |        356 |
+| Markdown   |          2 |         62 |          0 |         38 |        100 |
+| HTML       |          1 |         20 |         23 |          1 |         44 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                    | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                       |         23 |     21,288 |         82 |        175 |     21,545 |
+| . (Files)                                                                                               |          3 |     20,244 |          0 |         35 |     20,279 |
+| public                                                                                                  |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                                     |         18 |        999 |         59 |        138 |      1,196 |
+| src (Files)                                                                                             |          3 |         61 |         18 |         11 |         90 |
+| src/Assets                                                                                              |          1 |         24 |          0 |          5 |         29 |
+| src/Components                                                                                          |          6 |        287 |          6 |         38 |        331 |
+| src/Pages                                                                                               |          8 |        627 |         35 |         84 |        746 |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/README.md                             | Markdown   |         38 |          0 |         33 |         71 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/package-lock.json                     | JSON       |     20,164 |          0 |          1 |     20,165 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/package.json                          | JSON       |         42 |          0 |          1 |         43 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/public/index.html                     | HTML       |         20 |         23 |          1 |         44 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/public/manifest.json                  | JSON       |         25 |          0 |          1 |         26 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/App.js                            | JavaScript |         22 |          0 |          2 |         24 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Assets/Timeline.md                | Markdown   |         24 |          0 |          5 |         29 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Components/Hobbies.js             | JavaScript |         27 |          0 |          5 |         32 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Components/Hobbies.module.css     | CSS        |         51 |          1 |          7 |         59 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Components/ImageSlider.js         | JavaScript |         49 |          2 |          5 |         56 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Components/ImageSlider.module.css | CSS        |         73 |          2 |         10 |         85 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Components/Navbar.js              | JavaScript |         15 |          0 |          2 |         17 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Components/Navbar.module.css      | CSS        |         72 |          1 |          9 |         82 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Pages/AboutMe.js                  | JavaScript |         47 |          1 |          6 |         54 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Pages/AboutMe.module.css          | CSS        |        118 |         10 |         20 |        148 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Pages/ContactMe.js                | JavaScript |         37 |          0 |          3 |         40 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Pages/ContactMe.module.css        | CSS        |         58 |          3 |          9 |         70 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Pages/Experience.js               | JavaScript |         62 |          0 |          7 |         69 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Pages/Experience.module.css       | CSS        |        157 |          7 |         24 |        188 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Pages/Projects.js                 | JavaScript |         36 |         13 |          3 |         52 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/Pages/Projects.module.css         | CSS        |        112 |          1 |         12 |        125 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/index.css                         | CSS        |         29 |         18 |          7 |         54 |
+| /Users/viniciusramosjacob/Documents/Coding/Creating/vrj-portfolio/src/index.js                          | JavaScript |         10 |          0 |          2 |         12 |
+| Total                                                                                                   |            |     21,288 |         82 |        175 |     21,545 |
++---------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
