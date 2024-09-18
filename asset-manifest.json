@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ViniRJacob/static/css/main.d2320296.css",
+    "main.js": "/ViniRJacob/static/js/main.7ea765a9.js",
+    "static/media/VeganVini.JPG": "/ViniRJacob/static/media/VeganVini.6f71908f108f7dbfd9a0.JPG",
+    "static/media/IMG_6344.jpg": "/ViniRJacob/static/media/IMG_6344.2bc604c1360ff332c3ab.jpg",
+    "static/media/ViniStaring.JPG": "/ViniRJacob/static/media/ViniStaring.fb958d8e3a1bab1f847f.JPG",
+    "static/media/IMG_9226.png": "/ViniRJacob/static/media/IMG_9226.ed87d487f7ce95e82f98.png",
+    "static/media/instagram.png": "/ViniRJacob/static/media/instagram.28944b9a16197e849f88.png",
+    "static/media/atom.png": "/ViniRJacob/static/media/atom.dc01353d00068ee4c14d.png",
+    "static/media/world-wide-web.png": "/ViniRJacob/static/media/world-wide-web.297833d78476cdf61628.png",
+    "static/media/python.png": "/ViniRJacob/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/graduation-hat.png": "/ViniRJacob/static/media/graduation-hat.3c1d6317a308647bc33d.png",
+    "static/media/walk.png": "/ViniRJacob/static/media/walk.30d0547fb5d8be797f79.png",
+    "static/media/swift.png": "/ViniRJacob/static/media/swift.688bdeb61a60d63d7da0.png",
+    "static/media/linkedin.png": "/ViniRJacob/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/email.png": "/ViniRJacob/static/media/email.9082177d266cee25a57b.png",
+    "index.html": "/ViniRJacob/index.html",
+    "main.d2320296.css.map": "/ViniRJacob/static/css/main.d2320296.css.map",
+    "main.7ea765a9.js.map": "/ViniRJacob/static/js/main.7ea765a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2320296.css",
+    "static/js/main.7ea765a9.js"
+  ]
+}
