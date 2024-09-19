@@ -79,7 +79,14 @@ span {
     font-weight: bolder;
     font-size: large;
     box-shadow: 0 8px  var(--highlightText);
-    background-color: #8E44AD;
+    /* background-color: #8E44AD; */
+    background: rgba( 144, 19, 254, 0.4 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 3px );
+    -webkit-backdrop-filter: blur( 3px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+
     background-size: 300% 300%;
     transition: .1s ease-in-out;
 
@@ -90,8 +97,13 @@ span {
 .button:active {
     transform: translateY(5px);
     /* transform: translateX(5px); */
-    box-shadow: 2px 2px var(--highlightText);
-    background-color: #6d3286;
+    background: rgba( 144, 19, 254, 0.15 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 10px );
+    -webkit-backdrop-filter: blur( 10px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+
 }
 
 .button::before {
@@ -129,6 +141,19 @@ span {
         margin: 1rem 0;
     }
 }
+
+/* @media (min-width: 1024px) {
+    .bigContainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .infoContainer {
+        width: 70%;
+    }
+    
+} */
 
 @keyframes changeColor {
     0% {

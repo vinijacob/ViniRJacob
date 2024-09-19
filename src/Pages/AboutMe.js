@@ -17,7 +17,7 @@ export default function AboutMe() {
     ];
 
     return (
-        <div>
+        <div className={style.bigContainer}>
             <div className={style.infoContainer}>
                 <div className={style.sliderContainer}>
                     <CarrouselSlider slides={slides} />

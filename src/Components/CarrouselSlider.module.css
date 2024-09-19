@@ -1,6 +1,6 @@
 .mySwiper {
-    width: 80%;
-    height: 500px; /* Set a fixed height */
+    width: 30vw;
+    height: 50vh; /* Set a fixed height */
 }
 
 .swiper-slide {
@@ -16,4 +16,10 @@
     width: 100%; /* Full width */
     height: 100%; /* Full height */
     object-fit: cover; /* Cover to fill without distortion */
+}
+
+@media (max-width: 768px) {
+    .mySwiper {
+        width: 70vw;
+    }
 }
