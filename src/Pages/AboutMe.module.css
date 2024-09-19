@@ -142,6 +142,8 @@ span {
     }
 }
 
+/* TODO: FIX THE WIDTH OF THE ABOUTMETEXT */
+
 /* @media (min-width: 1024px) {
     .bigContainer {
         display: flex;
@@ -174,4 +176,20 @@ span {
     75% {
         transform: rotate(-20deg);
     }
+}
+
+.typing {
+    width: 300px;
+    overflow: hidden;
+    white-space: nowrap;
+    /* border-right: 2px solid #7E2EA0; */
+    animation: typing 2s steps(17, end), cursor .2s steps(12, end) infinite, borderFade 100s forwards;
+}
+
+@keyframes typing {
+    from { width: 0; }
+}
+
+@keyframes cursor {
+    50% { border-color: transparent; }
 }

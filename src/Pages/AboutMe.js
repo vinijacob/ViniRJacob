@@ -31,7 +31,7 @@ export default function AboutMe() {
                             <h2>Hello</h2>
                             <h1 className={style.hand}>👋🏼</h1>
                         </div>
-                        <h1>I'm <span>Vini R Jacob</span></h1>
+                        <h1 className={style.typing}>I'm <span>Vini R Jacob</span></h1>
                         <p>A 20-year-old software developer with 
                             a passion for coding and a keen interest in
                             building innovative solutions.
@@ -40,8 +40,7 @@ export default function AboutMe() {
                             'Computer Science' at Uninorte College.
                             Strong foundation in web development,
                             problem-solving, and teamwork.</p>
-                        <a href=''
-                        // target='_blank'
+                        <a href={`${process.env.PUBLIC_URL}/Currículo.pdf`} download="/Currículo.pdf"
                         className={style.pdf}><button className={style.button}>CV</button></a>
                     </div>
                 </div>
