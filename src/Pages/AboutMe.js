@@ -6,6 +6,7 @@ import CarrouselSlider from '../Components/CarrouselSlider';
 import img1 from '../Assets/photos/ViniStaring.JPG';
 import img2 from '../Assets/photos/IMG_6344.jpg';
 import img3 from '../Assets/photos/VeganVini.JPG';
+import img4 from '../Assets/photos/White bg foto.png';
 
 import memoji from '../Assets/Icons/IMG_9226.png';
 
@@ -14,6 +15,7 @@ export default function AboutMe() {
         { url: img1, title: 'Photo taken in November 2022' },
         { url: img2, title: 'Photo taken in May 2023' },
         { url: img3, title: 'Photo taken in April 2023' },
+        { url: img4, title: 'Photo taken in May 2023' },
     ];
 
     return (

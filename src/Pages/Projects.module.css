@@ -5,7 +5,7 @@
 }
 
 #cards {
-	list-style: none;
+    list-style: none;
 	padding-left: 0;
 	display: grid;
 	grid-template-columns: 1fr;
@@ -13,7 +13,7 @@
 	gap: var(--cardMargin);
 	padding-bottom: calc(var(--cards) * var(--cardTopPadding));
 	margin-bottom: var(--cardMargin);
-
+    
     color: var(--textColor);
 }
 #cards a {
@@ -22,16 +22,16 @@
 }
 
 #card1 {
-	--index: 1;
+    --index: 1;
 }
 #card2 {
-	--index: 2;
+    --index: 2;
 }
 #card3 {
-	--index: 3;
+    --index: 3;
 }
 #card4 {
-	--index: 4;
+    --index: 4;
 }
 #card5 {
     --index: 5;
@@ -41,13 +41,13 @@
 }
 
 .card {
-	position: sticky;
+    position: sticky;
 	top: 0;
 	padding-top: calc(var(--index) * var(--cardTopPadding));
 }
 
 #card1 .cardBody {
-	background: linear-gradient(45deg, rgba(142, 45, 226, .5), rgba(74, 0, 224, .5));
+    background: linear-gradient(45deg, rgba(142, 45, 226, .5), rgba(74, 0, 224, .5));
     background-size: 300% 300%;
     backdrop-filter: blur(10px);
     animation: wave 10s infinite ease-in-out;
@@ -84,21 +84,17 @@
 }
 
 .cardBody {
-	box-sizing: border-box;
+    box-sizing: border-box;
 	padding: 30px;
 	border-radius: 50px;
 	box-shadow: 0 0 30px 0 rgba(0,0,0,0.3);
 	height: var(--cardHeight);
 	display: flex;
+    flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	transition: all 0.5s;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
+    
     text-align: center;
 }
 
@@ -110,7 +106,7 @@
 }
 
 h2 {
-	font-size: 2.5em;
+    font-size: 2.5em;
 }
 
 @keyframes wave {
@@ -131,5 +127,18 @@ h2 {
     }
     100% {
         transform: translateX(0);
+    }
+}
+
+@media (min-width: 1920px) {
+    .container {
+        width: 70%;
+        font-size: large;
+    }
+}
+
+@media (min-width: 1024px) {
+    .cardBody p {
+        font-size: 32px !important;
     }
 }

@@ -23,29 +23,13 @@ export default function Projects() {
             </li>
             <li className={style.card} id={style.card3}>
                 <a
-                href='https://github.com/vinijacob/pokedex'
+                href=''
                 target='_blank' 
                 className={style.cardBody}>
                     <h2>A Swift Game.</h2>
                     <p>Swift is the programming language used by Apple developers for their environment. The game 'Ride Along Hell' was created with XCode featuring SpriteKIT and Swift as the main programming language.</p>
                 </a>
             </li>
-            {/* <li className={style.card} id={style.card4}>
-                <div className={style.cardBody}>
-                    <h2>Card 4</h2>
-                </div>
-            </li>
-            <li className={style.card} id={style.card5}>
-                <div className={style.cardBody}>
-                    <h2>Card 5</h2>
-                </div>
-            </li>
-            <li className={style.card} id={style.card6}>
-                <div className={style.cardBody}>
-                    <h2>Card 6</h2>
-                </div>
-            </li> */}
-
             {/* BEWARE WHEN ADDING NEW CARDS */}
         </ul>
     </div>

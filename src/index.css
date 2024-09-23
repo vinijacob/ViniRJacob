@@ -12,6 +12,16 @@ body {
   background-attachment: fixed;
   margin: 0;
   
+  overflow-x: hidden;
+
+  }
+
+  ::selection {
+    background-color: #561197;
+  }
+
+  ::-moz-selection {
+    background-color: #561197;
   }
 
 code {

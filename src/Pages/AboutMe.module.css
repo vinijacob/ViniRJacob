@@ -6,7 +6,6 @@
     height: 100%; /* Make sure it takes full height of its parent */
 }
 
-/* Optionally, adjust the overall container's style */
 .infoContainer {
     display: flex;
     flex-direction: row;
@@ -18,6 +17,21 @@
     color: var(--textColor); /* Set text color */
 }
 
+@media (min-width: 1440px) {
+    .bigContainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .aboutMeText {
+        margin-left: 8rem;
+    }
+
+    .infoContainer {
+        width: 90%;
+    }
+}
 
 .aboutMeText {
     display: flex;
