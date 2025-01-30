@@ -42,7 +42,9 @@ export default function AboutMe() {
                             'Computer Science' at Uninorte College.
                             Strong foundation in web development,
                             problem-solving, and teamwork.</p>
-                        <a href={`${process.env.PUBLIC_URL}/Currículo.pdf`} download="/Currículo.pdf"
+                        <a href={`${process.env.PUBLIC_URL}/Vinícius Ramos Jacob.pdf`}
+                        download="/Vinícius Ramos Jacob.pdf"
+                        target='_blank'
                         className={style.pdf}><button className={style.button}>CV</button></a>
                     </div>
                 </div>
