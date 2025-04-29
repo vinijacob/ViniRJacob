@@ -33,6 +33,6 @@ I am Vini R Jacob, a web developer  based in Manaus, BR. I specialize in front-e
 Feel free to reach out to me!
 
 - **Email**: vini_jacob@hotmail.com
-- **GitHub**: [link to your GitHub profile]
+- **GitHub**:
 
 Thank you for visiting my portfolio!
