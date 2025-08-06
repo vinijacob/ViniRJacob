@@ -16,7 +16,7 @@ I am Vini R Jacob, a web developer  based in Manaus, BR. I specialize in front-e
 ## Projects
 
 ### Project 1: Portfolio
-- **Description**: This is my portfolio!
+- **Description**: This is my portfolio, developed using React.
 - **Technologies Used**: I used React as my main development tool, plus Node.js to implement some more features.
 - **Live Demo**: [Link to live demo](https://vinijacob.github.io/ViniRJacob/)
 - **GitHub Repository**: [Link to repository](https://github.com/vinijacob/ViniRJacob)
@@ -24,7 +24,7 @@ I am Vini R Jacob, a web developer  based in Manaus, BR. I specialize in front-e
 ## Skills
 
 - **Programming Languages**: JavaSCript, Python, C#.
-- **Frameworks**: React.
+- **Frameworks**: React, Angular. Bootstrap & Tailwind CSS.
 - **Tools & Technologies**: Git.
 - **Design**: Figma.
 
@@ -33,6 +33,6 @@ I am Vini R Jacob, a web developer  based in Manaus, BR. I specialize in front-e
 Feel free to reach out to me!
 
 - **Email**: vini_jacob@hotmail.com
-- **GitHub**:
+- **GitHub**: vinijacob
 
 Thank you for visiting my portfolio!
