@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ViniRJacob/static/css/main.5f44c625.css",
-    "main.js": "/ViniRJacob/static/js/main.41dd5139.js",
+    "main.css": "/ViniRJacob/static/css/main.5ba187aa.css",
+    "main.js": "/ViniRJacob/static/js/main.473ebfc9.js",
     "static/media/White bg foto.png": "/ViniRJacob/static/media/White bg foto.362fa6dce26e39f07e51.png",
     "static/media/VeganVini.JPG": "/ViniRJacob/static/media/VeganVini.6f71908f108f7dbfd9a0.JPG",
     "static/media/IMG_6344.jpg": "/ViniRJacob/static/media/IMG_6344.2bc604c1360ff332c3ab.jpg",
@@ -10,19 +10,21 @@
     "static/media/IMG_9226.png": "/ViniRJacob/static/media/IMG_9226.ed87d487f7ce95e82f98.png",
     "static/media/instagram.png": "/ViniRJacob/static/media/instagram.28944b9a16197e849f88.png",
     "static/media/atom.png": "/ViniRJacob/static/media/atom.dc01353d00068ee4c14d.png",
+    "static/media/pygame icon.png": "/ViniRJacob/static/media/pygame icon.0ffd0cd567d2883c3ef9.png",
     "static/media/world-wide-web.png": "/ViniRJacob/static/media/world-wide-web.297833d78476cdf61628.png",
     "static/media/python.png": "/ViniRJacob/static/media/python.6a5cbc319ab3ddf8ef92.png",
     "static/media/graduation-hat.png": "/ViniRJacob/static/media/graduation-hat.3c1d6317a308647bc33d.png",
     "static/media/walk.png": "/ViniRJacob/static/media/walk.30d0547fb5d8be797f79.png",
-    "static/media/swift.png": "/ViniRJacob/static/media/swift.688bdeb61a60d63d7da0.png",
+    "static/media/c-sharp.png": "/ViniRJacob/static/media/c-sharp.4a32f53d425c7ad4cb05.png",
     "static/media/linkedin.png": "/ViniRJacob/static/media/linkedin.f249b38224ca41a0b909.png",
     "static/media/email.png": "/ViniRJacob/static/media/email.9082177d266cee25a57b.png",
+    "static/media/NET core.png": "/ViniRJacob/static/media/NET core.d057a6b73aeb081bb728.png",
     "index.html": "/ViniRJacob/index.html",
-    "main.5f44c625.css.map": "/ViniRJacob/static/css/main.5f44c625.css.map",
-    "main.41dd5139.js.map": "/ViniRJacob/static/js/main.41dd5139.js.map"
+    "main.5ba187aa.css.map": "/ViniRJacob/static/css/main.5ba187aa.css.map",
+    "main.473ebfc9.js.map": "/ViniRJacob/static/js/main.473ebfc9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f44c625.css",
-    "static/js/main.41dd5139.js"
+    "static/css/main.5ba187aa.css",
+    "static/js/main.473ebfc9.js"
   ]
 }
