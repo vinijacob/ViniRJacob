@@ -34,7 +34,7 @@ export default function AboutMe() {
                             <h1 className={style.hand}>👋🏼</h1>
                         </div>
                         <h1 className={style.typing}>I'm <span>Vini R Jacob</span></h1>
-                        <p>A 20-year-old software developer with 
+                        <p>A 21-year-old software developer with 
                             a passion for coding and a keen interest in
                             building innovative solutions.
                             I'm currently based in Manaus, Brasil,
@@ -42,9 +42,8 @@ export default function AboutMe() {
                             'Computer Science' at Uninorte College.
                             Strong foundation in web development,
                             problem-solving, and teamwork.</p>
-                        <a href={`${process.env.PUBLIC_URL}/Vinícius Ramos Jacob.pdf`}
-                        download="/Vinícius Ramos Jacob.pdf"
-                        target='_blank'
+                        <a href={`${process.env.PUBLIC_URL}/Vinícius R Jacob.pdf`}
+                        download="/Vinícius R Jacob.pdf"
                         className={style.pdf}><button className={style.button}>CV</button></a>
                     </div>
                 </div>

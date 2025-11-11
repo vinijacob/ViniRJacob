@@ -59,7 +59,7 @@
     animation: wave 10s infinite ease-in-out;
 }
 #card3 .cardBody {
-    background: linear-gradient(45deg, rgba(241, 39, 17, .5), rgba(245, 175, 25, .5));
+    background: linear-gradient(45deg, rgba(84, 74, 125, .5), rgba(255, 212, 82, .5));
     background-size: 300% 300%;
     backdrop-filter: blur(10px);
     animation: wave 10s infinite ease-in-out;

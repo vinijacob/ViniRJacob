@@ -23,11 +23,11 @@ export default function Projects() {
             </li>
             <li className={style.card} id={style.card3}>
                 <a
-                href=''
+                href='https://github.com/vinijacob/A.pets'
                 target='_blank' 
                 className={style.cardBody}>
-                    <h2>A Swift Game.</h2>
-                    <p>Swift is the programming language used by Apple developers for their environment. The game 'Ride Along Hell' was created with XCode featuring SpriteKIT and Swift as the main programming language.</p>
+                    <h2>A.Pets – Pet Adoption App</h2>
+                    <p>A.Pets is a prototype social network application for adopting and donating pets, developed by a team of college colleagues. The app connects users with each other and with animal welfare organizations, combining social interaction features with a focus on responsible pet adoption. It isn't finished.</p>
                 </a>
             </li>
             {/* BEWARE WHEN ADDING NEW CARDS */}
