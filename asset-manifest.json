@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ViniRJacob/static/css/main.5ba187aa.css",
-    "main.js": "/ViniRJacob/static/js/main.473ebfc9.js",
+    "main.css": "/ViniRJacob/static/css/main.0ed117eb.css",
+    "main.js": "/ViniRJacob/static/js/main.5fe9716f.js",
     "static/media/White bg foto.png": "/ViniRJacob/static/media/White bg foto.362fa6dce26e39f07e51.png",
     "static/media/VeganVini.JPG": "/ViniRJacob/static/media/VeganVini.6f71908f108f7dbfd9a0.JPG",
     "static/media/IMG_6344.jpg": "/ViniRJacob/static/media/IMG_6344.2bc604c1360ff332c3ab.jpg",
@@ -20,11 +20,11 @@
     "static/media/email.png": "/ViniRJacob/static/media/email.9082177d266cee25a57b.png",
     "static/media/NET core.png": "/ViniRJacob/static/media/NET core.d057a6b73aeb081bb728.png",
     "index.html": "/ViniRJacob/index.html",
-    "main.5ba187aa.css.map": "/ViniRJacob/static/css/main.5ba187aa.css.map",
-    "main.473ebfc9.js.map": "/ViniRJacob/static/js/main.473ebfc9.js.map"
+    "main.0ed117eb.css.map": "/ViniRJacob/static/css/main.0ed117eb.css.map",
+    "main.5fe9716f.js.map": "/ViniRJacob/static/js/main.5fe9716f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ba187aa.css",
-    "static/js/main.473ebfc9.js"
+    "static/css/main.0ed117eb.css",
+    "static/js/main.5fe9716f.js"
   ]
 }
