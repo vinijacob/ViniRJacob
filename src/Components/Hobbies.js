@@ -18,7 +18,7 @@ export default function Hobbies() {
 
         <article className={styles.article}>
           <h5>Watching Movies</h5>
-          <p>Watching movies is the best and most relaxing time I have in my day. Movies keep me enterteined, and I love it. I try to watch a new movcie per day.</p>
+          <p>Watching movies is the best and most relaxing time I have in my day. Movies keep me enterteined, and I love it. I try to watch a new movie per day.</p>
         </article>
 
         <article className={styles.article}>

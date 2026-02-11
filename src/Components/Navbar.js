@@ -11,6 +11,7 @@ export default function Navbar() {
         <Link to='/projects' className={style.navLink}>Projects</Link>
         <Link to='/journey' className={style.navLink}>My Journey</Link>
         <Link to='/contact' className={style.navLink}>Contact</Link>
+        {/* TODO: add strengths: dotnet, c#, python... */}
       </nav>
     </div>
   );

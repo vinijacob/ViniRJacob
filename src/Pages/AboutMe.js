@@ -2,6 +2,7 @@ import React from 'react';
 import style from './AboutMe.module.css';
 
 import CarrouselSlider from '../Components/CarrouselSlider';
+import Hobbies from '../Components/Hobbies';
 
 import img1 from '../Assets/photos/ViniStaring.JPG';
 import img2 from '../Assets/photos/IMG_6344.jpg';
